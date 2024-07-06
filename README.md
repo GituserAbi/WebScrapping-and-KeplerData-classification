@@ -10,5 +10,5 @@ Logistic regression - 96% accuracy,
 Random Forest Classification - 93% accuracy,   
 Support Vector Machine - 97% accuracy,   
 K-Nearest Neighbors - 91% accuracy  
-All the model accuracies fall above 90% indicating it to be suitable models for this dataset. But with ceratin differences,  
+All the model accuracies fall above 90% indicating it to be suitable models for this dataset. But with ceratain differences,
 SVM and LR tend to be the best among all the four models.  
