@@ -1,4 +1,4 @@
-# WeScrapping - Filmography
+# WebScrapping - Filmography
 Using Selenium WebDriver in Microsoft Edge, the web scraping script automatically extracts Leonardo DiCaprio's movie titles from IMDb. The first step is to open the IMDb homepage, type in "Leonardo DiCaprio," and then select the "People" section.   In order to manage dynamic content, the script scrolls and verifies and clicks on the element and retrieves the movie title from the sibling element that comes before it; if it is "false," it retrieves the title directly. To ensure reliable website engagement and effective data gathering, extracted titles are compiled into a list and saved to a CSV file.   Moreover, the script handles errors and cleans up resources by terminating the WebDriver session at the end.
 The same is tried using BeautifulSoup and chrome driver as well.
 
