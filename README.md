@@ -24,12 +24,12 @@ KNN - Number of neighbors(default = 5), distance metric (Euclidean, Manhattan, M
 All the above four are the algorithms that I considered for this dataset classification.
 
 4.What is the accuracy?  
-The models include:
+The models include:   
 Logistic regression - 96% accuracy,   
 Random Forest Classification - 93% accuracy,   
 Support Vector Machine - 97% accuracy,   
 K-Nearest Neighbors - 91% accuracy  
-All the model accuracies fall above 90% indicating it to be suitable models for this dataset. But with ceratain differences,
+All the model accuracies fall above 90% indicating it to be suitable models for this dataset. But with ceratain differences,  
 SVM and LR tend to be the best among all the four models.  
 
 5.What are the different types of metrics that can be used to evaluate the model?  
